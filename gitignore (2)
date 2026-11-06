@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# App database (saved recipes and bake history, local data)
+*.db
+*.sqlite3
+
+# Spyder / OS / editor
+.spyproject/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
